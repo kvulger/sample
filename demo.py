@@ -35,6 +35,9 @@ def display_help():
                 Stop == 2
     """)
 
+    def tareh():
+        print("taeh")
+
 def main():
     """Main function to control the flow of the game."""
     heading()
